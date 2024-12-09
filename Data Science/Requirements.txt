@@ -1,6 +1,0 @@
-streamlit
-transformers
-torch
-pretrained models
-pipelines
-gunicorn
